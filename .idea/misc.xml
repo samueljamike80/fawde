@@ -3,4 +3,8 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (generator)" />
   </component>
+  <component name="ProjectResources">
+    <resource url="http://www.sitemaps.org/schemas/sitemap/0.9" location="$PROJECT_DIR$/sitemap.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13" project-jdk-type="Python SDK" />
 </project>
